@@ -1,4 +1,3 @@
-# dental-clinic-website
 # Dental Clinic Website 🦷
 
 A professional dental clinic website built with HTML, CSS, JavaScript and Bootstrap 5.
